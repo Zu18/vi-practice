@@ -1,0 +1,2 @@
+file.txt
+ls: cannot access 'file12rc': No such file or directory
